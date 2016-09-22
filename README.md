@@ -1,2 +1,14 @@
 # streaming-resource
-flink, spark streaming, storm, heron, akka-stream相关资料
+Some study resource of Flink, Spark Streaming, Storm, Heron, Akka-Stream
+
+
+##    Keynotes
+
+*    [Flink Forward 2016](flink-forward-2016/README.md)
+
+
+
+
+
+---------
+> Jinkui Shi 2016
